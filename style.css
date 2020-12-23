@@ -1,0 +1,64 @@
+body{
+    background-color:gray;
+}
+
+.card{
+    background-color:lightgray;
+}
+
+.top-buffer { margin-top:20px; }
+
+h4{
+    color:darkgray;
+}
+
+#headshot{
+    width:240px;
+    height:375px;
+
+    /* centers image  */
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:auto;
+    margin-bottom:auto;
+
+
+}
+
+.card-img-top {
+    width: auto;
+    height: 15vw;
+    object-fit: cover;
+}
+
+
+@media(min-width:768px){
+    .mid-buffer { margin-top:20px; };
+
+}
+
+
+@media(max-width:900px){
+    .card-img-top{display:none;};
+}
+
+@media(min-width:1200px){
+    .lead{font-size:28px}
+
+    #headshot{
+        width:auto;
+        height:520px;
+    
+        /* centers image  */
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:auto;
+
+    
+    
+    }
+
+
+}

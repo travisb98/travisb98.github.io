@@ -2,46 +2,140 @@
 <html lang="en-us">
 <head>
   <meta charset="UTF-8">
-  <title>Activity 1: Basic HTML Bio</title>
+  <title>Travis</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
 </head>
 
 
 
 <body>
-<h1>Travis Bostick</h1>
 
-<img src="headshotz.jpg" width=240 height = 375 alt="Travi boi">
+<!-- navbar start -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Resume</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Work History</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Education</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Resources</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Other Details</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Projects
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="#">All Project Summary</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#">Project numba 1</a>
+            <a class="dropdown-item" href="#">Project numba 2</a>
+            <a class="dropdown-item" href="#">Project numba 3</a>
+            <a class="dropdown-item" href="#">Project numba 4</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- navbar end -->
 
 
-<p>I'm Travis and I like dogs, high fives, and rock n roll</p>
-<p>I also like to dance and I don't have COVID</p>
 
-<ul>
-  <li><strong>GitHub:</strong><a href="https://github.com/travisb98"target=0>travisb98</a></li>
-  <li><strong>Linkedin:</strong><a href="https://www.linkedin.com/in/travis-bostick-79946469"target=0>click here</a></li>
-</ul>
+<div class="container">
+  <div class="row ">
+    <div class="col-md-12">
+      <h1 class="text-center">Travis Bostick</h1>
+      <h4 class="text-center" >this is a brief description of who Travis is </h4>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6">
+      <img id="headshot" src="images/headshotz.jpg" alt="Travi boi">
+    </div>
+    <div class="col-md-6 justify-content-center">
+      <p class="lead" >Data Analyst with a background in accounting. Enjoys digging into data to derive meaning, solve problems, and guide decision makers. During my accounting career, I have proven my ability to analyze complex data sets and provide accurate results. My desire to work smart before working hard has led to numerous process improvements at prior companies. With a background in accounting, recent training in data analytics, and a continuous drive to learn, I will be a great addition to your team</p>
+    </div>
+  </div>
+  <div class="row top-buffer">
+    <div class="col-md-6">
+      <div class ="card">
+        <img class="card-img-top" src ='images/laptop_code.jpg'>
+        <div class="card-body">
+          <h5 class="card-title">Projects</h5>
+          <!-- <h6 class ="card-subtitle">card subtitle</h6> -->
+          <p class="card-text">This is a breif paragraph about the projects I've worked on</p>
+          <a href="#" class="btn btn-primary">button</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class ="card">
+        <img class="card-img-top" src ='images/building.jpg'>
+        <div class="card-body">
+          <h5 class="card-title">Work History</h5>
+          <!-- <h6 class ="card-subtitle">card subtitle</h6> -->
+          <p class="card-text">THis is a breif paragraph giving a quick overview of my work history</p>
+          <a href="#" class="btn btn-primary">button</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row mid-buffer">
+    <div class="col-md-6">
+      <div class ="card">
+        <img class="card-img-top" src ='images/library.jpg'>
+        <div class="card-body">
+          <h5 class="card-title">Education</h5>
+          <!-- <h6 class ="card-subtitle">card subtitle</h6> -->
+          <p class="card-text">Degrees in Accounting and Data Analytics</p>
+          <a href="#" class="btn btn-primary">button</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <div class ="card">
+        <img class="card-img-top" src ='images/paperwork.jpg'>
+        <div class="card-body">
+          <h5 class="card-title">Other</h5>
+          <!-- <h6 class ="card-subtitle">card subtitle</h6> -->
+          <p class="card-text">I'm not sure what I'll put here, if anything</p>
+          <a href="#" class="btn btn-primary">button</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</div>
 
 
 
 
 
-<table border: 1px solid black>
-  <tr>
-  <th>Songs</th>
-  <th>Games</th>
-  <th>Movies</th>
-  </tr>
-  <tr>
-    <td>remember chocolate rain???</td>
-    <td>Breath of the Wild</td>
-    <td>The Matrix</td>
-  </tr>
-  <tr>
-    <td>what about that numa numa guy</td>
-    <td>Red Dead Redemption</td>
-    <td>V for Vendetta</td>
-  </tr> 
-</table>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
 </body>
 
