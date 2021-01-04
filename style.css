@@ -32,6 +32,33 @@ h4{
     object-fit: cover;
 }
 
+#jumbo{
+    background-image:url("images/headshotz_close.jpg");
+    background-repeat:no-repeat;
+    background-position:center;
+    overflow:hidden;
+    height:500px;
+}
+
+#jumbotitle{
+    color:white;
+    text-shadow: 3px 3px #000000;
+    margin-top:20%;
+
+
+
+}
+
+
+#jumbotext{
+    color:white;
+    text-shadow: 3px 3px #000000;
+
+}
+
+
+
+
 
 @media(min-width:768px){
     .mid-buffer { margin-top:20px; };
