@@ -4,21 +4,21 @@
 
 ## Education
 ----
-+ University of Minnesota - Data Analytics and Visualizations Certificate | 2020-2021
-+ Metropolitan State University - BS in Business Administration and Accounting| 2015-2017
-+ University of Northwestern - Complete 70 credit towards a BS in accounting | 2012-2015
++ University of Minnesota - Data Analytics and Visualizations Certificate - 2020-2021
++ Metropolitan State University - BS in Business Administration and Accounting - 2015-2017
++ University of Northwestern - Complete 70 credit towards a BS in accounting - 2012-2015
 
 
 ## Relevant Projects
 ----
-- [Employee Database Analysis](https://github.com/travisb98/EmployeeDatabase) | Analysis of HR data using SQL
-- [Weather API](https://github.com/travisb98/Weather_API) | Utilizing Google’s API and Python to analyze, chart, and map the weather for 500 cities 
-- [Mars Scraping](https://github.com/travisb98/Mars_Scraping) | Scraped webpages, created database and server, and generated dashboard using Python and HTML
-- [Climate Analysis](https://github.com/travisb98/Climate_Analysis) | Created an SQL database, analyze the data, and create an API that returns results from the database
-- [Alien Sightings](https://github.com/travisb98/Javascript_Alien) | Created a webpage that displays a table with filtering options using Javascript
-- [Belly Button Microbes](https://github.com/travisb98/BellyButton) | An interactive dashboard with multiple visuals created with Javascript
-- [Spotify Project](https://github.com/travisb98/SpotifySongAnalysisProject) | 	Analysis of spotify chart data and audio features using python
-- [Disc Golf Dashboard](https://github.com/travisb98/Disc_Golf_Dashboard) | Created a dashboard of disk golf data using web scraping, a flask API, Python and Javascript
+- [Employee Database Analysis](https://github.com/travisb98/EmployeeDatabase) - Analysis of HR data using SQL
+- [Weather API](https://github.com/travisb98/Weather_API) - Utilizing Google’s API and Python to analyze, chart, and map the weather for 500 cities 
+- [Mars Scraping](https://github.com/travisb98/Mars_Scraping) - Scraped webpages, created database and server, and generated dashboard using Python and HTML
+- [Climate Analysis](https://github.com/travisb98/Climate_Analysis) - Created an SQL database, analyze the data, and create an API that returns results from the database
+- [Alien Sightings](https://github.com/travisb98/Javascript_Alien) - Created a webpage that displays a table with filtering options using Javascript
+- [Belly Button Microbes](https://github.com/travisb98/BellyButton) - An interactive dashboard with multiple visuals created with Javascript
+- [Spotify Project](https://github.com/travisb98/SpotifySongAnalysisProject) - Analysis of spotify chart data and audio features using python
+- [Disc Golf Dashboard](https://github.com/travisb98/Disc_Golf_Dashboard) - Created a dashboard of disk golf data using web scraping, a flask API, Python and Javascript
 
 ## Technical Skills
 ----
