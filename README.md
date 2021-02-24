@@ -1,7 +1,4 @@
 
-# Travis Bostick Resume
-----
-
 ## Education
 ----
 + University of Minnesota - Data Analytics and Visualizations Certificate - 2020-2021
