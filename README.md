@@ -1,5 +1,6 @@
 
 # Education
+--
 + University of Minnesota - Data Analytics and Visualizations Certificate - 2020-2021
 + Metropolitan State University - BS in Business Administration and Accounting - 2015-2017
 + University of Northwestern - Complete 70 credit towards a BS in accounting - 2012-2015
