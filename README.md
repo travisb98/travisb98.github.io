@@ -1,6 +1,8 @@
 
 # Resume
 
+<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+
 # Education
 ---
 + University of Minnesota - Data Analytics and Visualizations Certificate - 2020-2021
