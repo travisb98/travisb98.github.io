@@ -1,7 +1,5 @@
 
 # Resume
----
----
 
 # Education
 ---
