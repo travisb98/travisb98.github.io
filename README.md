@@ -6,7 +6,7 @@
 + University of Northwestern - Complete 70 credit towards a BS in accounting - 2012-2015
 
 
-# Relevant Projects
+# Data Analytics Projects
 ---
 - [Employee Database Analysis](https://github.com/travisb98/EmployeeDatabase) - Analysis of HR data using SQL
 - [Weather API](https://github.com/travisb98/Weather_API) - Utilizing Google’s API and Python to analyze, chart, and map the weather for 500 cities 
