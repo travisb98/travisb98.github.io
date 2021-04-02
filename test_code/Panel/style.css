@@ -6,20 +6,27 @@
     left:0;
     position:fixed;
     overflow-x:hidden;
-    padding-top:20px
+
+    padding:10px
 }
 
 
 
 
 #main{
-    margin-left:160px;
-    padding:0px 10px;
+    margin-left:200px;
+    padding: 10px;
     background-color:orange;
     top:0;
     bottom:0;
     position:fixed;
+    width:100%
 
 
 
 }
+
+
+
+
+/* when the screen gets skinny(phone) make the menu skinner.  make it a percentage of the window width??? */
