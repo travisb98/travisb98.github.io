@@ -1,0 +1,25 @@
+#menu{   
+    background-color: lightgray;
+    height: 100%;
+    width: 200px;
+    top:0;
+    left:0;
+    position:fixed;
+    overflow-x:hidden;
+    padding-top:20px
+}
+
+
+
+
+#main{
+    margin-left:160px;
+    padding:0px 10px;
+    background-color:orange;
+    top:0;
+    bottom:0;
+    position:fixed;
+
+
+
+}

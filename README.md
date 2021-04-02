@@ -23,7 +23,7 @@
 - Applications: GitHub, PostgreSQL, GIT, Flask, Command Line, Tableau
 - Tools: Excel, Pandas, Databasing, Jupyter Notebook, Bootstrap, D3, leaflet, numpy, matplotlib, APIs, MongoDB, JSON, Beautiful Soup, MySQL, NoSQL, Ajax, D3, Leaflet
 
-# Recent Employment History
+# Experience
 ---
 ### Goldleaf Partners
 #### A/R Staff Accountant | 2018-2020
