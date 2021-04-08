@@ -1,30 +1,58 @@
 #menu{   
     background-color: lightgray;
     height: 100%;
-    width: 200px;
+    width:200px;
+    /* width: 20%; */
     top:0;
     left:0;
     position:fixed;
     overflow-x:hidden;
-
-    padding:10px
+    padding:10px;
+    
 }
 
+#menu_list{
+    /* display:none; */
+    list-style-type:none;
+    padding:10px;
+
+
+
+}
+
+#menu_list li{
+    font-size:x-large;
+    padding:15px;
+    font-weight:1000
+
+
+
+}
 
 
 
 #main{
     margin-left:200px;
-    padding: 10px;
+    padding: 20px;
     background-color:orange;
     top:0;
     bottom:0;
     position:fixed;
-    width:100%
+    
+    width:80%;
+    height:100%;
+    /* display:flex; */
+    /* transition: margin-left .5s; */
+    /* overflow-wrap:break-word */
+    /* overflow-x:hidden */
+    /* word-wrap:break-word */
+    /* box-sizing:border-box */
+    /* border:120px */
 
 
 
 }
+
 
 
 

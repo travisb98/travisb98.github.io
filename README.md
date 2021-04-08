@@ -1,50 +1,39 @@
 
-# Education
+# Portfolio
 ---
-+ University of Minnesota - Data Analytics and Visualizations Certificate - 2020-2021
-+ Metropolitan State University - BS in Business Administration and Accounting - 2015-2017
-+ University of Northwestern - Complete 70 credit towards a BS in accounting - 2012-2015
-
-
-# Data Analytics Projects
----
-- [Employee Database Analysis](https://github.com/travisb98/EmployeeDatabase) - Analysis of HR data using SQL
-- [Weather API](https://github.com/travisb98/Weather_API) - Utilizing Google’s API and Python to analyze, chart, and map the weather for 500 cities 
-- [Mars Scraping](https://github.com/travisb98/Mars_Scraping) - Scraped webpages, created database and server, and generated dashboard using Python and HTML
-- [Climate Analysis](https://github.com/travisb98/Climate_Analysis) - Created an SQL database, analyze the data, and create an API that returns results from the database
-- [Alien Sightings](https://github.com/travisb98/Javascript_Alien) - Created a webpage that displays a table with filtering options using Javascript
-- [Belly Button Microbes](https://github.com/travisb98/BellyButton) - An interactive dashboard with multiple visuals created with Javascript
-- [Spotify Project](https://github.com/travisb98/SpotifySongAnalysisProject) - Analysis of spotify chart data and audio features using python
+- [Crime Watcher](https://github.com/travisb98/Crime_Watcher) 
+    - A web application that maps your location and recent crimes in your area within the city of Minneapolis while using machine learning to determine your “Danger Score”.
+    - Python, Javascript, HTML, CSS, Flask, Scikit-Learn, Pandas, Requests
+    - See the deployed project at travisb98.pythonanywhere.com
+- [Spotify Project](https://github.com/travisb98/SpotifySongAnalysisProject)
+    - The goal of this project is to analyze the data available from Spotify to answer questions about Spotify Audio Features by song year, correlation between Audio Features and country metrics, and the Spotify Audio Features by song year.
+    - Python, Matplotlib, Numpy, Scipy, Pandas, Requests, BeautifulSoup
 - [Disc Golf Dashboard](https://github.com/travisb98/Disc_Golf_Dashboard) - Created a dashboard of disk golf data using web scraping, a flask API, Python and Javascript
+    - A dashboard that allows users to filter and analyze data on disc golf courses across the United States. The dashboard utilizes a choropleth map, scatter plot, and bar graph to assist users with their analysis
+    - Python, Javascript, HTML, CSS, MongoDB Atlas, Plotly, Flask
+- [Employee Database Analysis](https://github.com/travisb98/EmployeeDatabase)
+    - Created an SQL database from 2 csv files and performed multiple  queries to analyze the data
+    - SQL and Postgres   
+- [Weather API](https://github.com/travisb98/Weather_API) 
+    - Utilizing Google’s API to chart, map, and analyze the weather of 500 different cities
+    - Python, Numpy, APIs, Requests, Citypy, Gmaps
+- [Mars Scraping](https://github.com/travisb98/Mars_Scraping) 
+    - Scraped webpages, created database and server, and generated dashboard using Python and HTML
+    - Created a dashboard by scraping multiple websites and creating a database and server
+    - Python, BeautifulSoup, MongoDB, Flask, Splinter, Pandas
+- [Climate Analysis](https://github.com/travisb98/Climate_Analysis) 
+    - Created an SQL database, analyzed the data, and created an API that returns results from the database
 
-# Technical Skills
----
-- Languages Python, JavaScript, HTML, CSS, VBA, SQL
-- Applications: GitHub, PostgreSQL, GIT, Flask, Command Line, Tableau
-- Tools: Excel, Pandas, Databasing, Jupyter Notebook, Bootstrap, D3, leaflet, numpy, matplotlib, APIs, MongoDB, JSON, Beautiful Soup, MySQL, NoSQL, Ajax, D3, Leaflet
+    - SQL, Python, SQLAlchemy, matplotlib, Numpy, Pandas, Flask
+- [Alien Sightings](https://github.com/travisb98/Javascript_Alien) - 
+    - Created a webpage that displays a table with filtering options using Javascript
+    - Created a webpage displaying a table with filtering options
+    - Javascript, HTML, CSS, D3, Bootstrap
+- [Belly Button Microbes](https://github.com/travisb98/BellyButton) - 
+    - An interactive dashboard with multiple visuals created with Javascript
+    - Javascript, D3, HTML
 
-# Experience
----
-### Goldleaf Partners
-#### A/R Staff Accountant | 2018-2020
-- Prepared 10,000 invoices annually with complex fee structures due to market-based pricing
-- Streamlined a billing data review process, turning a 3-day process into a 1-day process
-- Performed ad hoc reporting and analysis to guide management’s decision making
-- Created and implemented ACH policy based on local and national regulations
 
-### Goldleaf Partners
-#### A/P Staff Accountant | 2017-2018
-- Processed 2,000 vendor invoices annually
-- Managed payables of $4,000,000 annually
-- Processed weekly check run and ACH payments
-- Maintained relationships with over 100 vendors
-
-### Better Business Bureau
-#### Advertising Review Intern | 2016-2017
-- Investigated companies with substandard business practices
-- Developed industry standards and consumer tips for various industries
-- Analyzed and quantified consumer complaint data to identify reoccurring issues and trends
-- Developed press releases to notify the public of issues in the marketplace
 
 
 

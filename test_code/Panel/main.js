@@ -7,14 +7,6 @@ var converter = new showdown.Converter(),
 
 
 
-
-
-
-
-
-
-
-
 d3.select('#markDiv').html(html);
 
 
