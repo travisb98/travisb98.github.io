@@ -25,11 +25,11 @@
     - Created an SQL database, analyzed the data, and created an API that returns results from the database
 
     - SQL, Python, SQLAlchemy, matplotlib, Numpy, Pandas, Flask
-- [Alien Sightings](https://github.com/travisb98/Javascript_Alien) - 
+- [Alien Sightings](https://github.com/travisb98/Javascript_Alien)
     - Created a webpage that displays a table with filtering options using Javascript
     - Created a webpage displaying a table with filtering options
     - Javascript, HTML, CSS, D3, Bootstrap
-- [Belly Button Microbes](https://github.com/travisb98/BellyButton) - 
+- [Belly Button Microbes](https://github.com/travisb98/BellyButton)
     - An interactive dashboard with multiple visuals created with Javascript
     - Javascript, D3, HTML
 
